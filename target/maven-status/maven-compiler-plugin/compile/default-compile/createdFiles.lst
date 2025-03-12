@@ -1,0 +1,15 @@
+com\tetris\Controller$1.class
+com\tetris\GameManager.class
+com\tetris\blocks\BlockBase.class
+com\tetris\blocks\TBlock.class
+com\tetris\blocks\IBlock.class
+com\tetris\blocks\OBlock.class
+com\tetris\GameManager$2.class
+com\tetris\Controller.class
+com\tetris\blocks\JBlockL.class
+com\tetris\blocks\ZBlockL.class
+com\tetris\GameManager$1.class
+com\tetris\blocks\JBlockR.class
+com\tetris\MiniBlock.class
+com\tetris\Direction.class
+com\tetris\blocks\ZBlockR.class
